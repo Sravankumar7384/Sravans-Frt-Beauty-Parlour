@@ -4,7 +4,7 @@ Web Technologies used: HTML, CSS, JS
 
 IDE: VS-Code
 
-Note: Bot is deployed on index page 
+Note: Bot is deployed on services page and also separate bot will be there.
 
 ### Industry :
 Health
@@ -56,10 +56,19 @@ SceenShots :
 ![Screenshot (21)](https://user-images.githubusercontent.com/116822221/204102456-d8ff458a-ad6f-4e51-93c6-433ecdf29b54.png)
 ![Screenshot (11)](https://user-images.githubusercontent.com/116822221/204102457-7356e8b4-98e5-4444-97ae-c9c089a393c9.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/116822221/204102458-eb22412a-d34b-46fc-8a29-2a11e6a6b7b4.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/116822221/204102461-3d4fd6ec-3cfd-4302-9a53-0230fd6d2139.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/116822221/204102461-3![Screenshot (22)](https://user-images.githubusercontent.com/116822221/204103721-d4912690-cc1e-4ce9-930a-ce09ebb6873b.png)
+d4fd6ec-3cfd-4302-9a53-0230fd6d2139.png)
+
+GitHub Repository:
 
 
+github Deployed Link:
 
+
+Static Webapps deployed Link:
+
+
+Demo Video:
 
 
 
