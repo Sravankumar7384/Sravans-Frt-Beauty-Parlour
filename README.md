@@ -1,4 +1,4 @@
-# Starter-FRT
+# Sravans Beauty Parlour and Spa
 
 Web Technologies used: HTML, CSS, JS
 
@@ -10,7 +10,7 @@ Note: Bot is deployed on index page
 Health
 
 
-### Project Title : Beaty Parlour
+### Project Title : Beauty Parlour and Spa
 
 
 
