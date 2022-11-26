@@ -62,7 +62,7 @@ SceenShots :
 GitHub Repository: https://github.com/Sravankumar7384/Sravans-Frt-Beauty-Parlour.git
 
 
-github Deployed Link:
+github Deployed Link: https://sravankumar7384.github.io/Sravans-Frt-Beauty-Parlour/
 
 
 Static Webapps deployed Link:
