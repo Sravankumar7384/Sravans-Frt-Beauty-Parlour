@@ -65,7 +65,7 @@ GitHub Repository: https://github.com/Sravankumar7384/Sravans-Frt-Beauty-Parlour
 github Deployed Link: https://sravankumar7384.github.io/Sravans-Frt-Beauty-Parlour/
 
 
-Static Webapps deployed Link:
+Static Webapps deployed Link:https://calm-river-035d62c00.2.azurestaticapps.net
 
 
 Demo Video:
